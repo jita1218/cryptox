@@ -35,7 +35,7 @@ const Home = () => {
         color={"whiteAlpha.700"}
         mt={"-20"}
       >
-        Xcrypto
+        Cryptoxion
       </Text>
     </Box>
   );
